@@ -27,7 +27,7 @@ const swaggerOptions = {
         description: "Production server",
       },
       {
-        url: "https://career-canvas.onrender.com",
+        url: "https://careercanvas.online",
         description: "Production server of render",
       },
     ],
