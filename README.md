@@ -9,7 +9,7 @@ The project is built with a MERN stack architecture and focuses on real-world jo
 ## 🔗 Live Demo
 
 🚀 Live Website: https://www.careercanvas.online
-🧪 API Docs: https://career-canvas.onrender.com/api-docs
+🧪 API Docs: https://careercanvas.online/apidocs
 
 ---
 
